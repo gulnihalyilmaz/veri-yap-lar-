@@ -19,3 +19,21 @@ Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 --> ardından 6 da tek tek elemanları geçerek şu şekli alacaktır;
 - [2, 6, 16, 18, 22, 27]
 
+
+## soru 2
+Aynı dizinin Big-O gösterimini yazınız.
+
+## cevap 2
+
+--> [n (n+1)] / 2 ile açılım yaptığımızda elde ettiğimiz şey (n^2 +n) / 2 olacaktır ve belirleyici olan n^2 olacaüo için cevap
+O(n^2) 'dir. 
+
+##soru 3 
+Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer?
+
+Average case: Aradığımız sayının ortada olması
+Worst case: Aradığımız sayının sonda olması
+Best case: Aradığımız sayının dizinin en başında olması.
+
+--> 
+18 sayısı Avarage case kapsamındadır.
