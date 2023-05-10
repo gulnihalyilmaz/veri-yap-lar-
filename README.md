@@ -1,7 +1,7 @@
-veri yapilari 
+veri yapilarinda
 
 - insertion sort
 - merge sort
 - binary search tree
 
-uygulamarı örnekleri.
+uygulama örnekleri.
