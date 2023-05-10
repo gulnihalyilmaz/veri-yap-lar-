@@ -1,2 +1,2 @@
-# veri yapları
+# veri yapilari
 sorting uygulamaları
