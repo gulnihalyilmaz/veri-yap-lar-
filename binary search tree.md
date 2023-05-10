@@ -1,4 +1,4 @@
-# BİNARY SEARCH PROJESİ
+# BİNARY SEARCH TREE PROJESİ
 
 
 ## soru 1
