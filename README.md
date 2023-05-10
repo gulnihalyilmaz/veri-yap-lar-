@@ -2,6 +2,6 @@ veri yapilari
 
 - insertion sort
 - merge sort
-- binary tree
+- binary search tree
 
 uygulamarı örnekleri.
